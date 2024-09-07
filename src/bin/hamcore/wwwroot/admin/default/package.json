@@ -18,7 +18,7 @@
     "typescript": "^3.4.5",
     "vpnrpc": "^1.0.1",
     "webpack": "^5.94.0",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "core-js": "^3.1.3",
